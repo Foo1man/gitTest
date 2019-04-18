@@ -1,5 +1,5 @@
 
 one step
 stages is short time
-check stage 
+check stage of file 
 
